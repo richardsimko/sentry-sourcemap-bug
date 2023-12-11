@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "inlineSources": true,
+    "sourceRoot": "/",
+    "outDir": "./build"
+  },
+  "include": ["./**.ts"],
+  "exclude": ["./app/client/**.ts"]
+}
